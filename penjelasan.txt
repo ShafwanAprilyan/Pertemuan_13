@@ -1,0 +1,15 @@
+Single Linked List
+merupakan suatu linked list yang hanya memiliki satu variabel pointer saja. 
+Dimana pointer tersebut menunjuk ke node selanjutnya. Biasanya field pada tail menunjuk ke NULL.
+
+Double Linked List
+merupakan suatu linked list yang memiliki dua variabel pointer
+yaitu pointer yang menunjuk ke node selanjutnya dan pointer yang menunjuk ke node sebelumnya. 
+Setiap head dan tailnya juga menunjuk ke NULL.
+
+Linier linked list
+merupakan suatu linked list yang tailnya (node terakhir) menunjuk ke NULL.
+
+Circular Linked List 
+merupakan suatu linked list dimana tail (node terakhir) menunjuk ke head (node pertama). 
+sehingga tidak ada pointer yang menunjuk NULL. 
